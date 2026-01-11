@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+CollegeX is an innovative College Management System (CMS) website designed to streamline academic processes and enhance communication between students and faculty members. The platform offers a comprehensive set of features including result checking, attendance tracking, timetable management, event notifications, and access to a repository of previous exam papers.
